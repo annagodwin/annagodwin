@@ -1,7 +1,5 @@
-### Hi, I'm Anna 👋
+### Hi, I'm Anna 
 
-**Currently working on:** Applied AI/ML/Data Science
-
-**Background:** Biomedical engineering → medical devices → data science
+**Background:** Biomedical engineering & Textile Engineering → Global Health → Medical Devices (Polymer Science) → Data Science / ML / Applied AI
 
 📍 [LinkedIn](https://www.linkedin.com/in/anna-godwin)
